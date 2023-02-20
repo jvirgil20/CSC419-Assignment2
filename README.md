@@ -1,1 +1,1 @@
-# csc419-assignment2
+# CSC-419: Assignment2
