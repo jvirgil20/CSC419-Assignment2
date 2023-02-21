@@ -45,7 +45,7 @@ int main() {
         Static Time
     */
     start = clock();
-    for (int i = 0; i < num; i++) declareStackArr();
+    for (int i = 0; i < num; i++) declareStaticArr();
     end = clock();
     staticTime = ((double)(end-start)) / CLOCKS_PER_SEC;
     /*
