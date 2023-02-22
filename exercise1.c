@@ -1,3 +1,8 @@
+/*
+    Jaylon Virgil
+    CSC 419 Assignment 2: Exercise 1 (C)
+    --
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
