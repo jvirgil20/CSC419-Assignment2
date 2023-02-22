@@ -1,5 +1,5 @@
 # Jaylon Virgil
-# CSC 419 Assignment 2: Exercise 3b (ruby)
+# CSC 419 Assignment 2: Exercise 3a (ruby)
 # --
 # example of mutable string in ruby
 
